@@ -1,0 +1,20 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-pollone-dev-12442-authRole",
+      "UnauthRoleArn": "arn:aws:iam::366856199996:role/amplify-pollone-dev-12442-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::366856199996:role/amplify-pollone-dev-12442-authRole",
+      "Region": "us-east-2",
+      "DeploymentBucketName": "amplify-pollone-dev-12442-deployment",
+      "UnauthRoleName": "amplify-pollone-dev-12442-unauthRole",
+      "StackName": "amplify-pollone-dev-12442",
+      "StackId": "arn:aws:cloudformation:us-east-2:366856199996:stack/amplify-pollone-dev-12442/d2fcb9c0-ff4f-11ec-9a62-0a088aac8456",
+      "AmplifyAppId": "d2mer3sn6y507"
+    },
+    "categories": {
+      "auth": {
+        "pollone1f75fad3": {}
+      }
+    }
+  }
+}

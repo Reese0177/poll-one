@@ -1,0 +1,11 @@
+{
+  "AppSyncApiName": "pollone",
+  "DynamoDBBillingMode": "PAY_PER_REQUEST",
+  "DynamoDBEnableServerSideEncryption": false,
+  "AuthCognitoUserPoolId": {
+    "Fn::GetAtt": [
+      "authpollone1f75fad3",
+      "Outputs.UserPoolId"
+    ]
+  }
+}
